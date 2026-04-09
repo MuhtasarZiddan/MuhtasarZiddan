@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- snake commit -->
+
+  ![snake gif](https://github.com/MuhtasarZiddan/MuhtasarZiddan/blob/output/github-snake-dark.svg)
